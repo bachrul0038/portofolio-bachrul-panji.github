@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+#Project {
+  background-color: #0099ff;
+}
+
+.navbar .selector {
+  width: 150px;
+  height: 150px;
+
+  background-color: red;
+
+  transition: 1s ease-in-out;
+}
+
+.selector:hover {
+  width: 300px;
+  height: 300px;
+}
+section {
+  padding-top: 5rem;
+}
